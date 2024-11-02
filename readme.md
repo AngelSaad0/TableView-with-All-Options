@@ -1,16 +1,7 @@
-#  <#Title#>
-
 ### Key Enhancements for UITableView
-
 1. **Custom Cell Design**
-
 2. **Dynamic Cell Heights**
-tableView.estimatedRowHeight = 44 // Use a reasonable estimate
-tableView.rowHeight = UITableView.automaticDimension
-
 3. **Pull-to-Refresh**
-Implement a refresh control to update the table’s content effortlessly.
-
 4. **Swipe Actions**
 5. **Section Headers and Footers**
 6. **Search Functionality**
