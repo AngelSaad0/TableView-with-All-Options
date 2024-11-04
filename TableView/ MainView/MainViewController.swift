@@ -22,7 +22,6 @@ class MainViewController: UIViewController {
         setupItems()
         setupTableView()
         title = "TableView"
-        navigationController?.navigationBar.prefersLargeTitles = true
     }
 
     func setupTableView() {
